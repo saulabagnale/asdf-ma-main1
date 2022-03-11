@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: manganyaa.com
+Token: 617e4d6a65736e0251d55f441271b4a5d4b1a86d208bb04e65581e7b6941b0b3
